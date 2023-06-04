@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=imkikus)](https://github.com/imkikus/github-profile-trophy)
 - 👋 Hi, I’m Kikus, passionate programmer and singer
 - 👀 I’m interested in Web/Mobile application development
 - 🌱 I’m currently learning multiple frontend frameworks
